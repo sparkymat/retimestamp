@@ -1,6 +1,9 @@
 # retimestamp
 Command-line tool to quickly update the timestamp in a file name
 
+## Installation
+
+`go get -u github.com/sparkymat/retimestamp`
 
 ## Sample usage
 ```bash
